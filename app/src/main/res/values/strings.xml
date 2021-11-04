@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="myName">Nicholas Simon</string>
+    <string name="mainText">Tap right side of to move to next page,\n left side to go back</string>
+    <string name="weather">Weather</string>
+    <string name="dogboi">This is my dog Charlotte, She is a 1.5 year old Golden Doodle that loves to annoy me and my family</string>
+    <string name="here">Here</string>
+    <string name="home">Home</string>
+    <string name="aruba">Aruba</string>
+    <string name="mybio">My name is Nicholas Simon. I am a computer science major currently attending the University of Massachusetts Lowell and am in my first senior semester. I was born in Norwood Massachusetts and have lived in Westwood Massachusetts for the vast majority of my life. I have no idea what I want to be coming out of college but hopefully it\'s something involving my degree. I enjoy fishing and playing video games with my friends in my free time.</string>
+    <string name="portfolio">My investing portfolio</string>
+    <string name="psum">I\'ve been sitting on a large investment in Cisco for a few years, here\'s my current ytd earnings:</string>
+    <string name="temp"></string>
+    <string name="condition"></string>
+    <string name="city"></string>
+</resources>
